@@ -1,6 +1,6 @@
 # NetValueApp 版本包
 
-公开发布的 APK 与更新清单。**源码不在这个仓库**，源码在另一个仓库。
+公开发布的 APK 与更新清单。**源码不在这个仓库**，源码在 [netvalue](https://github.com/linzhixiang2625050147-commits/netvalue)。
 
 ## 最新版本
 
@@ -10,14 +10,22 @@
 | versionCode | `44` |
 | 日期 | 2026-11-11 |
 | 系统要求 | Android 10（API 29）及以上 |
-| 安装包 | `NetValueApp-v3.0.1-261111-1.apk` |
+| 安装包 | [`NetValueApp-v3.0.1-261111-1.apk`](NetValueApp-v3.0.1-261111-1.apk) |
 
 签名与 2.x 一致，可直接覆盖安装。旧版数据不会再导入新库，只做加密归档；未登录不能使用。
 
+SHA-256：
+
+```
+802D155FE3082ADAEA06E6E9763D20D60509B9022704E69E8CB0793B898CFC6E
+```
+
 ## 文件说明
 
-- `NetValueApp-v3.0.0-261110-1.apk`：安装包
-- `latest.json`：App 内「检查更新」读取的清单，`apkUrl` 指向自建后端的 `/downloads/NetValueApp.apk`
+- `NetValueApp-v3.0.1-261111-1.apk`：当前版本安装包
+- `NetValueApp-v3.0.0-261110-1.apk`：上一版
+- `latest.json`：App 内「检查更新」读取的清单；线上 `apkUrl` 指向自建后端的 `/downloads/NetValueApp.apk`
+- `CHANGELOG.md`：逐版本变更
 
 ## 版本历史
 
