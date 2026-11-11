@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "3.0.5-261111-1",
+  "versionCode": 49,
+  "versionName": "3.0.6-261111-1",
   "apkUrl": "/downloads/NetValueApp.apk",
-  "updateLog": "v3.0.5 修复：\n· 账户与同步页在深色模式下露出浅色底、内容看不清\n· 登录页标题被状态栏遮挡\n· 服务器地址 / 用户名输入框被中文输入法转成中文标点，现已指定键盘类型并自动纠正\n· 登录页重新预填正式域名 netvalue.linzx.net.cn"
+  "updateLog": "v3.0.6 下载加速：\n· 更新包改为 4 段并发下载，国内直连从约 0.1 MB/s 提升到 0.5 MB/s 左右\n· 并行下载失败会自动回退单线程\n· 其余功能无变化"
 }
