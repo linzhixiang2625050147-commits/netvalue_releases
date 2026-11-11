@@ -1,6 +1,6 @@
 # NetValueApp 版本包
 
-公开发布的 APK 与更新清单。**源码不在这个仓库**，源码在 [netvalue](https://github.com/linzhixiang2625050147-commits/netvalue)。
+公开发布的 APK 与更新清单。**源码仓库为私有**，这里只提供安装包和更新清单。
 
 ## 最新版本
 
